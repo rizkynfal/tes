@@ -58,7 +58,7 @@
                 </div>
                 <div class="row">
                   
-                     <a href="#"><h3>[FAKTA] Indonesia Negara dengan Rasio Kematian Akibat Covid-19 Tertinggi di Dunia</h3></a>
+                     <a href="#"><h3>hehe</h3></a>
                      <p>Kasus positif corona Covid-19 di Indonesia meningkat drastis menjadi 227 kasus. Dari angka tersebut, 19 di antaranya dinyatakan meninggal dunia dan baru 11 yang dinyatakan sembuh..</p>
                    </div>
                 </div>
