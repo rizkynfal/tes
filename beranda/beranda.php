@@ -71,7 +71,7 @@
                 </div>
                 <div class="col-md-9">
                   <a href="#"><h3>[HOAX] Berendam air panas uap panas dari pengering tangan dapat membunuh virus Covid-19</h3></a>
-                  <p>Berita ini adalah hoaks. Virus akan mati pada suhu 90 derajat. Sehingga berendam di air hangat suam suam tudak akan membunuh virus.</p>
+                  <p>adgajdfigoiajdigjioaj Virus akan mati pada suhu 90 derajat. Sehingga berendam di air hangat suam suam tudak akan membunuh virus.</p>
                 </div>
               </div><br>
 
